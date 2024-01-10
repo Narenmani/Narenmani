@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naren M</h1>
 <h3 align="center">Passionate about java and Crafting web Experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgeekyprawins%2Fgeekyprawins&psig=AOvVaw3X4vUDH4uUqAysnUAjWccX&ust=1704967179356000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj96e_H0oMDFQAAAAAdAAAAABBQ">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleancoders.ltd%2F&psig=AOvVaw3X4vUDH4uUqAysnUAjWccX&ust=1704967179356000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj96e_H0oMDFQAAAAAdAAAAABBV">
 
 - 📫 How to reach me **naren2003mani@gmail.com**
 
