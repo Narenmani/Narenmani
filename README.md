@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naren M</h1>
 <h3 align="center">Passionate about Java and Crafting Web Experiences</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-land-your-dream-job-software-engineer-amin-boulouma-swe--6w9ff&psig=AOvVaw0f0OKehiL5wroYM4bPiDpZ&ust=1718962649747000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICbqIPx6YYDFQAAAAAdAAAAABBc](https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1724284800&v=beta&t=TkktW4a6VleqJSHpJvFutc4akXg6bFjhVp0j_NSuJKg)">
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/f5.gif">
 
 - 📫 How to reach me: naren2003mani@gmail.com
 
