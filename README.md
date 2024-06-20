@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naren M</h1>
 <h3 align="center">Passionate about Java and Crafting Web Experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/f5.gif">
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/f5.gif" alt="Autoplay GIF">
 
 - 📫 How to reach me: naren2003mani@gmail.com
 
